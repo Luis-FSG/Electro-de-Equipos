@@ -126,14 +126,6 @@ st.sidebar.write("""
 1. **Edita** los nombres y valores en la tabla
 2. **Agrega/Elimina** participantes con +/-
 3. **Guarda** los cambios
-4. **Distribuye** en equipos balanceados o aleatorios
+4. **Distribuye** en equipos balanceados o aleatorios para que dejen la lloradera
 5. **Comparte** el link con otros!
-""")
-
-st.sidebar.header("🌐 Compartir la App")
-st.sidebar.write("""
-Para hacer pública esta app:
-1. Sube a Streamlit Cloud
-2. Comparte el link generado
-3. ¡Todos podrán usarla!
 """)
